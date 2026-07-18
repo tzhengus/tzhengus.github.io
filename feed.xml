@@ -3,11 +3,19 @@
   <id>https://tzheng.us/</id>
   <title>Tian Zheng — Writing</title>
   <subtitle>Field notes about software, hardware, debugging, and AI-assisted development.</subtitle>
-  <updated>2026-07-18T08:08:42Z</updated>
+  <updated>2026-07-18T08:14:28Z</updated>
   <link href="https://tzheng.us/feed.xml" rel="self" type="application/atom+xml"/>
   <link href="https://tzheng.us/" rel="alternate" type="text/html"/>
   <author>
     <name>Tian Zheng</name>
     <uri>https://tzheng.us/</uri>
   </author>
+  <entry>
+    <id>https://tzheng.us/articles/gym-tv-that-kept-turning-itself-on-at-night/</id>
+    <title>The Gym TV That Kept Turning Itself On at Night</title>
+    <link href="https://tzheng.us/articles/gym-tv-that-kept-turning-itself-on-at-night/" rel="alternate" type="text/html"/>
+    <published>2026-07-18T08:14:28Z</published>
+    <updated>2026-07-18T08:14:28Z</updated>
+    <summary>How a black screen, an undervoltage warning, and one ambiguous HDMI-CEC message taught me to debug old hardware with AI.</summary>
+  </entry>
 </feed>
