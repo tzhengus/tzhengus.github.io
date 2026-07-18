@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>https://tzheng.us/</id>
+  <title>Tian Zheng — Writing</title>
+  <subtitle>Field notes about software, hardware, debugging, and AI-assisted development.</subtitle>
+  <updated>2026-07-18T08:08:42Z</updated>
+  <link href="https://tzheng.us/feed.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://tzheng.us/" rel="alternate" type="text/html"/>
+  <author>
+    <name>Tian Zheng</name>
+    <uri>https://tzheng.us/</uri>
+  </author>
+</feed>
