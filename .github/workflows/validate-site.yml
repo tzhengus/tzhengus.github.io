@@ -1,0 +1,17 @@
+name: Validate static site
+
+on:
+  push:
+  pull_request:
+
+permissions:
+  contents: read
+
+jobs:
+  counter-coverage:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out site
+        uses: actions/checkout@v4
+      - name: Require Counter.dev on every public HTML page
+        run: python3 .github/scripts/check_counter.py
